@@ -1,0 +1,6 @@
+{
+  "name": "Si-Selara",
+  "description": "Si-Selara (Aplikasi Sewa dan Rekap Aula) Kemenag Kota Mojokerto - Manajemen peminjaman dan rekapitulasi mingguan gedung aula serbaguna (Aula PLHUT, Aula Kemenag, Aula Kecil).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
